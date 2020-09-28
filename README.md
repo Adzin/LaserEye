@@ -1,3 +1,13 @@
+範例圖片:
+### menu
+![image](https://github.com/Adzin/LaserEye/blob/master/image/LASER_01.jpg)
+### Game presentation-1
+![image](https://github.com/Adzin/LaserEye/blob/master/image/LASER_02.jpg)
+### Game presentation-2
+![image](https://github.com/Adzin/LaserEye/blob/master/image/LASER_03.jpg)
+### score
+![image](https://github.com/Adzin/LaserEye/blob/master/image/LASER_04.jpg)
+
 # 如何用視線偵測玩pygame
 
 ### 使用的模型:

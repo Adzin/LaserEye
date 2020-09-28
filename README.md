@@ -35,6 +35,7 @@
 - `scipy`
 - `opencv-python`
 - `pygame`
+- `sqlite3`
 
 ### 2. 下載模型
 如果要下載模型可使用OpenVINO中的下載器
